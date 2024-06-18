@@ -20,7 +20,7 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="http://localhost:3001/assets/info4.jpeg"
+        src="https://www.google.com/imgres?q=avengers&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFm8esk4aMAI7SOx%3Fformat%3Djpg%26name%3Dlarge&imgrefurl=https%3A%2F%2Ftwitter.com%2Fplayavengers&docid=2M2aDFyGguCdpM&tbnid=aZl268b5yGMQ6M&vet=12ahUKEwihzLn4gOaGAxVLS2wGHeq2DbUQM3oECGwQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwihzLn4gOaGAxVLS2wGHeq2DbUQM3oECGwQAA"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
